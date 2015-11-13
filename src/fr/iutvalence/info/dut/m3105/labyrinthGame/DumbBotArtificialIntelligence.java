@@ -1,6 +1,6 @@
 package fr.iutvalence.info.dut.m3105.labyrinthGame;
 
-public class DumbBotArtificialIntelligence implements RobotArtificialIntelligence
+public abstract class DumbBotArtificialIntelligence extends RobotArtificialIntelligence
 {
 	private boolean isBlocked;
 
